@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "@arelive/logger": "^2.0.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.4",
     "dotenv": "^16.0.1",
     "fluent-ffmpeg": "^2.1.2",
     "pg": "^8.6.0",
@@ -41,7 +41,7 @@
     "telegraf": "^3.40.0",
     "toml": "^3.0.0",
     "typegram": "^3.9.1",
-    "typeorm": "^0.3.6",
+    "typeorm": "^0.3.18",
     "uuid": "^8.3.2",
     "yaml": "^2.0.1"
   },
