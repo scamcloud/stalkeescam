@@ -33,7 +33,7 @@
   ],
   "dependencies": {
     "@arelive/logger": "^2.0.0",
-    "axios": "^1.6.4",
+    "axios": "^1.6.8",
     "dotenv": "^16.0.1",
     "fluent-ffmpeg": "^2.1.2",
     "pg": "^8.6.0",
