@@ -37,7 +37,7 @@
     "dotenv": "^16.0.1",
     "fluent-ffmpeg": "^2.1.2",
     "pg": "^8.6.0",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.2",
     "telegraf": "^3.40.0",
     "toml": "^3.0.0",
     "typegram": "^3.9.1",
